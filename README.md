@@ -1,4 +1,4 @@
-
+[![Build Status](https://hanykamel.visualstudio.com/Big%20Rocks%20CR1%20for%20MEP/_apis/build/status/hanykamel.pipelines-java?branchName=master)](https://hanykamel.visualstudio.com/Big%20Rocks%20CR1%20for%20MEP/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
